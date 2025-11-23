@@ -1,6 +1,6 @@
-# CJ Card
+# React Card Component Library
 
-**Version:** 0.1.0
+**Version:** 1.0.0
 
 A flexible and customizable React product card component library built with TypeScript. CJ Card provides a composable component pattern that allows you to build product cards with counter functionality, custom styling, and controlled/uncontrolled modes.
 
