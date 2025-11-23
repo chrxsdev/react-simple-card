@@ -5,13 +5,13 @@ import { ProductCard, ProductImage, ProductButtons, ProductTitle } from '../.';
 
 const product = {
   id: '1',
-  title: 'Coffee Mug!',
+  title: 'Coffee Mug - Card',
 };
 
 const App = () => {
   return (
     <>
-      <ProductCard product={product} initialValues={{ count: 4 }}>
+      <ProductCard product={product} initialValues={{ count: 3 }}>
         {_ => (
           <>
             <ProductImage />
