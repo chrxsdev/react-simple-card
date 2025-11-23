@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`ProductCard Should increment the count when the card is clicked 1`] = `
+<div>
+  <div
+    class="productCard undefined"
+  >
+    <h1>
+      Product Card
+    </h1>
+    <span>
+      0
+    </span>
+    <button>
+      0
+    </button>
+  </div>
+</div>
+`;
+
+exports[`ProductCard Should show the child component properly 1`] = `
+<div>
+  <div
+    class="productCard undefined"
+  >
+    <h1>
+      ProductCard
+    </h1>
+  </div>
+</div>
+`;
